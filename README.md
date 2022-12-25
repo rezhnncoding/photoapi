@@ -52,3 +52,29 @@ localhost:8080/photo/63a81610f3510b4354c498bf
         "LikeCount": 0
     }
 }
+
+
+UploadPhoto
+
+localhost:8080/photo/Create
+
+{
+
+    "ResCode": "200",
+    "ResMessage": "Success",
+    "Data": {
+        "NewUserId": "63a81610f3510b4354c498bf"
+    }
+}
+
+
+DeletePhoto
+
+localhost:8080/photo/Delete/63a18655a785546e1b66c6d8
+
+{
+
+    "ResCode": "200",
+    "ResMessage": "Success",
+    "Data": null
+}
