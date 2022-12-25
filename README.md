@@ -68,6 +68,12 @@ localhost:8080/photo/Create
 }
 
 
+EditPhoto
+
+localhost:8080\photo/Edit/63a18a78b9a93c1c33d15880
+
+
+
 DeletePhoto
 
 localhost:8080/photo/Delete/63a18655a785546e1b66c6d8
@@ -78,3 +84,5 @@ localhost:8080/photo/Delete/63a18655a785546e1b66c6d8
     "ResMessage": "Success",
     "Data": null
 }
+
+
