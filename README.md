@@ -31,3 +31,23 @@ localhost:8080/photo/getList
         }
     ]
 }
+
+
+GetPhotoBId
+
+localhost:8080/photo/63a81610f3510b4354c498bf
+
+{
+    "ResCode": "200",
+    "ResMessage": "Success",
+    "Data": {
+        "Id": "63a81610f3510b4354c498bf",
+        "Title": "baraye axe 4 hast",
+        "Description": "in axe 4 teste",
+        "ImageName": "71002909-f25e-4704-9414-e4debf5cd0a7.png",
+        "CreateDate": "2022-12-25T09:21:19.391Z",
+        "CreatorUserId": "",
+        "VisitCount": 0,
+        "LikeCount": 0
+    }
+}
