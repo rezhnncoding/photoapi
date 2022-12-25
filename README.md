@@ -38,6 +38,7 @@ GetPhotoBId
 localhost:8080/photo/63a81610f3510b4354c498bf
 
 {
+
     "ResCode": "200",
     "ResMessage": "Success",
     "Data": {
